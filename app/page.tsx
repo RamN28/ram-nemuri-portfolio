@@ -21,25 +21,26 @@ export default function Page() {
               <h1 className="max-w-sm text-5xl font-semibold tracking-[-0.05em] sm:text-6xl">Ram Nemuri</h1>
               <div className="mt-6 flex items-center gap-2 text-sm text-blue-100">
                 <MapPin className="h-4 w-4" aria-hidden="true" />
-                <span>Undergraduate student at UCSC</span>
+                <span>UC Santa Cruz - Computer Science</span>
               </div>
+              <p className="mt-4 text-sm font-medium tracking-wide text-blue-100">AI/ML - Software - Building</p>
             </div>
           </section>
 
           <section className="flex flex-col justify-between p-7 sm:p-10 md:p-12">
             <div>
-              <p className="text-sm font-semibold uppercase tracking-[0.2em] text-blue-600">What I do</p>
+              <p className="text-sm font-semibold uppercase tracking-[0.2em] text-blue-600">WHAT I'M ABOUT</p>
               <h2 className="mt-5 max-w-md text-3xl font-semibold leading-tight tracking-[-0.035em] text-slate-900 sm:text-4xl">
-                Computer science student with an interest in AI/ML.
+                Computer science student building with AI/ML.
               </h2>
               <div className="my-9 h-px w-full bg-slate-200" />
               <p className="max-w-lg text-base leading-8 text-slate-600">
-                I am passionate about building useful and helpful technology that anyone can use to get things done. I want to make it easier for people to learn how to use AI and then build cool projects with it.
+                I&apos;m interested in building technology that makes it easier for people to learn, create, and get things done. I&apos;m especially excited about AI/ML and finding practical ways to turn these technologies into things people can actually use.
               </p>
             </div>
 
             <div className="mt-12">
-              <p className="mb-4 text-xs font-semibold uppercase tracking-[0.2em] text-slate-400">How to reach me</p>
+              <p className="mb-4 text-xs font-semibold uppercase tracking-[0.2em] text-slate-400">LET&apos;S CONNECT</p>
               <div className="space-y-3">
                 <a className="group flex items-center justify-between rounded-2xl border border-slate-200 px-4 py-3.5 transition-colors hover:border-blue-300 hover:bg-blue-50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2" href="mailto:ramnemuri1@gmail.com">
                   <span className="flex min-w-0 items-center gap-3">
