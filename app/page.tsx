@@ -33,6 +33,7 @@ export default function Page() {
               <h2 className="mt-5 max-w-md text-3xl font-semibold leading-tight tracking-[-0.035em] text-slate-900 sm:text-4xl">
                 Computer science student building with AI/ML.
               </h2>
+              <p className="mt-4 text-sm font-medium text-blue-600">Now on GitHub</p>
               <div className="my-9 h-px w-full bg-slate-200" />
               <p className="max-w-lg text-base leading-8 text-slate-600">
                 I&apos;m interested in building technology that makes it easier for people to learn, create, and get things done. I&apos;m especially excited about AI/ML and finding practical ways to turn these technologies into things people can actually use.
